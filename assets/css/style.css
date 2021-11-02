@@ -235,14 +235,13 @@ section {
 
 .trainer {
     margin: 20px;
+    flex: 1;
     background: #024e76;
     color: #fce138;
-    flex: 1;
 }
 
 .trainer img {
     width: 100%;
-    float: left;
 }
 
 .trainer-bio {
